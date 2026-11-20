@@ -70,4 +70,4 @@ Agent 会话是短命的。同一件事过一周再问，模型不记得上次�
 
 ## 许可
 
-本仓库自有内容使用 MIT 许可，见 `LICENSE`。`.agents/skills/` 下两份 Skill 原文及其许可证来自各自上游项目，遵循各自的 MIT 许可，版权归原作者。
+本仓库自有内容使用 MIT 许可，见 `LICENSE`。`.agents/skills/` 下两份 Skill 原文及其许可证来自各自上游项目，遵循各自的 MIT 许可，版权归原作者；逐项声明见 `THIRD-PARTY-NOTICES.md`。
